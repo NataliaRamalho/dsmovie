@@ -33,13 +33,13 @@ Projeto desenvolvido durante a semana Spring React proporcionada por Dev Superio
 
 <li> Home 🏠</li>
 </br>
-<img src= "https://github.com/NataliaRamalho/dsmovie/Screens/Home.png"/>
+<img src= "https://github.com/NataliaRamalho/dsmovie/blob/main/Screens/Home.png"/>
 
 <p> Nesta tela o usuário pode ver as avaliações do filme e escolher um filme para avaliar.</p>
 
 <li> Tela de avaliação dos filmes </li>
 </br>
-<img src= "https://github.com/NataliaRamalho/dsmovie/Screens/Form.png"/>
+<img src= "https://github.com/NataliaRamalho/dsmovie/blob/main/Screens/Form.png"/>
 
 <p> Nesta tela o usuário pode avaliar o filme que escolheu dando uma nota de 1 a 5.</p>
 
