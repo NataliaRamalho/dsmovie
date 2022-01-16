@@ -19,7 +19,7 @@ function FormCard({movieId}: Props) {
     .then(response =>{
         setMovie(response.data)
     });
-  },[])
+  },)
 
   const handleSubmit = (event : React.FormEvent<HTMLFormElement>) =>{
     event.preventDefault();
