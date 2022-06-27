@@ -44,14 +44,14 @@ Projeto desenvolvido durante a semana Spring React proporcionada por Dev Superio
 <p> Nesta tela o usuário pode avaliar o filme que escolheu dando uma nota de 1 a 5.</p>
 
 # Como executar o código
-<strong>  Pré-requisitos -- Backend 📌 </strong>
+<strong>  Pré-requisitos - Back 📌 </strong>
 <li> JDK 11 ou 17</li>
 <li> <a href="https://spring.io/tools" >Spring Tools</a></li>
 
 
 </br>
 
-<strong>  Pré-requisitos -- Frontend 📌 </strong>
+<strong>  Pré-requisitos - Front 📌 </strong>
 <li> <a href="https://nodejs.org/en/" >Node.js </a>  </li>
 <li> Editor de código. Recomenda-se o <a href="https://code.visualstudio.com/" >VSCode </a> </li>
 <li> Pacote npm ou yarn. O pacote npm vem junto com o <a href="https://nodejs.org/en/" >Node.js </a> </li>
