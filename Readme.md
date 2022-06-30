@@ -3,7 +3,7 @@ Projeto desenvolvido durante a semana Spring React proporcionada por Dev Superio
 <p> Para acessar a aplicação <a href="https://dsmovie-java.netlify.app">clique aqui.</a> </p>
 
 
-:mag_right:Sumário
+Sumário 📑
 =================
 <!--ts-->
    * [Funcionalidades principais](#Funcionalidades-principais )
