@@ -112,4 +112,6 @@ yarn start ou npm start
 
 <p>Parabéns o frontend da aplicação também esta executando 😃. Para acessar basta entrar na url http://localhost:3000.</p>
 
+⏰ Projeto desenvolvido em jan/2022
+
 
