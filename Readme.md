@@ -1,6 +1,5 @@
 # Dsmovie
 Projeto desenvolvido durante a semana Spring React proporcionada por Dev Superior. Nesta aplicação o usuário pode avaliar e ver as avaliações de alguns filmes.
-<p> Para acessar a aplicação <a href="https://dsmovie-java.netlify.app">clique aqui.</a> </p>
 
 
 Sumário 📑
