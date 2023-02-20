@@ -89,7 +89,6 @@ git clone https://github.com/NataliaRamalho/dsmovie.git
 
 ```
 cd frontend
-
 ```
 </br>
 
